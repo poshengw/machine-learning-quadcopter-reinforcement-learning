@@ -1,6 +1,6 @@
-# Machine Learning Engineer Nanodegree
-# Reinforcement Learning
-## Project: Train a Quadcopter How to Fly
+## Machine Learning Engineer Nanodegree
+## Reinforcement Learning
+### Train a Quadcopter How to Fly
 
 ### Project Summary:
 - Implemented **reinforcement learning algorithm** to design an learning **agent** and **task** to fly a quadcopter.
